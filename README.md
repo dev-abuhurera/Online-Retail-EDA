@@ -15,6 +15,8 @@ pip install pandas matplotlib seaborn openpyxl jupyter
 jupyter notebook Online_Retail_EDA.ipynb
 ```
 
+<img width="915" height="574" alt="image" src="https://github.com/user-attachments/assets/a172337c-e226-453d-b4a2-57a68f41b329" />
+
 ## What the Notebook Covers
 1. Dataset load (both sheets combined), shape, columns, dtypes
 2. Missing values and duplicate rows report (observation only, nothing removed)
