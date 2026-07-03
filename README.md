@@ -29,6 +29,16 @@ jupyter notebook Online_Retail_EDA.ipynb
 
 <img width="927" height="621" alt="image" src="https://github.com/user-attachments/assets/0ecb22a6-5a63-402e-9276-870d6f5a46df" />
 
+
+<img width="935" height="562" alt="image" src="https://github.com/user-attachments/assets/992cf504-8477-4a93-a351-a423950bc512" />
+
+
+<img width="924" height="676" alt="image" src="https://github.com/user-attachments/assets/9892aa84-915c-4581-a1a5-579ba4ae37db" />
+
+
+<img width="924" height="676" alt="image" src="https://github.com/user-attachments/assets/372bc22b-93f2-42ae-b83c-9922ab119efa" />
+
+
 ## Key Findings
 - UK generates the large majority of revenue
 - Clear seasonal peak in Sep-Nov
