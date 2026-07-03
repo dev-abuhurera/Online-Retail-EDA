@@ -1,6 +1,5 @@
 # Online Retail II - Exploratory Data Analysis
 
-<img width="952" height="845" alt="image" src="https://github.com/user-attachments/assets/0de711e2-f429-46bd-86b4-06622dcf59d7" />
 
 Week 1 internship task: EDA on real transaction data from a UK based online retailer (2009-2011) to understand customers, top products, and country revenue before building a recommendation system.
 
@@ -15,7 +14,10 @@ pip install pandas matplotlib seaborn openpyxl jupyter
 jupyter notebook Online_Retail_EDA.ipynb
 ```
 
-<img width="915" height="574" alt="image" src="https://github.com/user-attachments/assets/a172337c-e226-453d-b4a2-57a68f41b329" />
+<img width="926" height="505" alt="image" src="https://github.com/user-attachments/assets/a86edeb7-492e-40a5-91d2-89905422e454" />
+
+
+
 
 ## What the Notebook Covers
 1. Dataset load (both sheets combined), shape, columns, dtypes
@@ -27,6 +29,12 @@ jupyter notebook Online_Retail_EDA.ipynb
 7. Outlier detection via box plots (Quantity, Price)
 8. Six business insights
 
+<img width="931" height="835" alt="image" src="https://github.com/user-attachments/assets/81957379-3a34-4d4b-98bd-4f8a505dead6" />
+
+
+<img width="915" height="574" alt="image" src="https://github.com/user-attachments/assets/a172337c-e226-453d-b4a2-57a68f41b329" />
+
+
 <img width="927" height="621" alt="image" src="https://github.com/user-attachments/assets/0ecb22a6-5a63-402e-9276-870d6f5a46df" />
 
 
@@ -37,6 +45,10 @@ jupyter notebook Online_Retail_EDA.ipynb
 
 
 <img width="924" height="676" alt="image" src="https://github.com/user-attachments/assets/372bc22b-93f2-42ae-b83c-9922ab119efa" />
+
+
+<img width="911" height="550" alt="image" src="https://github.com/user-attachments/assets/0317f7ba-0d99-4622-94bf-59d3538fe50e" />
+
 
 
 ## Key Findings
