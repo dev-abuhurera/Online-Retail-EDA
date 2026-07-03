@@ -27,6 +27,8 @@ jupyter notebook Online_Retail_EDA.ipynb
 7. Outlier detection via box plots (Quantity, Price)
 8. Six business insights
 
+<img width="927" height="621" alt="image" src="https://github.com/user-attachments/assets/0ecb22a6-5a63-402e-9276-870d6f5a46df" />
+
 ## Key Findings
 - UK generates the large majority of revenue
 - Clear seasonal peak in Sep-Nov
