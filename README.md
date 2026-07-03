@@ -1,5 +1,7 @@
 # Online Retail II - Exploratory Data Analysis
 
+<img width="952" height="845" alt="image" src="https://github.com/user-attachments/assets/0de711e2-f429-46bd-86b4-06622dcf59d7" />
+
 Week 1 internship task: EDA on real transaction data from a UK based online retailer (2009-2011) to understand customers, top products, and country revenue before building a recommendation system.
 
 ## Dataset
